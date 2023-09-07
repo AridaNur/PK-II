@@ -33,7 +33,10 @@ li{
 li{
   list-style: none;
   float:left;
+  padding:33px 20px;
 }
 .header-logo{
   float: left;
   font-size:36px;
+  padding:33px 40px;
+}
